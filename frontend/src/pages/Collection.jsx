@@ -99,7 +99,7 @@ useEffect(()=>{
               <span>Women</span>
             </div>
             <div className="flex items-center gap-2">
-              <input type="checkbox" className="w-4 h-4 cursor-pointer" value="Kid" onChange={toggleCategory} />
+              <input type="checkbox" className="w-4 h-4 cursor-pointer" value="Kids" onChange={toggleCategory} />
               <span>Kids</span>
             </div>
           </div>
